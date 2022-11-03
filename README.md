@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pierpaolo (@PierpaoloV)
-- 👀 I work as PhD Candidate at Diagnostic Image Analysis Group (@DIAGNijmegen)
+- 👀 I work as PhD Candidate at Diagnostic Image Analysis Group (@DIAGNijmegen), in Radboudumc, Nijmegen (NL)
 - 🌱 I focus on AI for Digital Pathology, more specifically in Pancreatic Cancer
 - 📫 Feel free to reach me at pierpaolo.vendittelli@radboudumc.nl
 
