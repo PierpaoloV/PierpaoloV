@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Pierpaolo (@PierpaoloV)
-- 👀 I work as Postdoctoral researcher at Prinses Maxima Centre (Utrecht, NL) and the Diagnostic Image Analysis Group (@DIAGNijmegen), in Radboudumc, Nijmegen (NL)
-- 🌱 I focus on AI for Digital Pathology, spanning from Pancreatic Cancer (during my PhD) to Wilms Tumor (during my postdoc)
-- 📫 Feel free to reach me at pierpaolo.vendittelli@radboudumc.nl
+## 🌐 Portfolio
+👉 https://pierpaolov.github.io
+
+- 👋 Hi, I’m Pierpaolo Vendittelli (@PierpaoloV)
+- 👀 Applied ML engineer working on digital pathology and AI systems
+- ⚙️ I build deep learning pipelines for whole-slide image analysis, clinical ML workflows, and LLM-based automation
+- 🌱 Experience spanning pancreatic cancer prognosis (PhD) and Wilms tumor grading (postdoc)
+- 📫 pierpaolo.vendittelli@radboudumc.nl
 
 <!---
 PierpaoloV/PierpaoloV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
